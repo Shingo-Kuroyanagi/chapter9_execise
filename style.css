@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+background-color: #FF9A4B;
+height: 50px;
+width: 100%
+}
+
+.main{
+ width: 960px;
+ margin: 50px,0; 
+ display: flex;
+}
+.step-box{
+  width: 300px;
+
+  
+}
+
+.step-img1{
+  background-image: url(img/flow01.png);
+  height: 150px;
+  
+}
+
+.step-img2{
+  background-image: url(img/flow02.png);
+  height: 150px;
+  
+}
+.step-img3{
+  background-image: url(img/flow03.png);
+  height: 150px;
+  
+}
+
+
+
+footer{
+  background-color: #aaaaaa;
+  height: 50px;
+  width: 100%;
+}
